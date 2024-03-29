@@ -1,0 +1,7 @@
+S:\Anul 3\Semestrul 2\II\Laborator1&2\Tema_Form_1\Tema_Form_1\bin\Release\net8.0-windows\publish\GionPlayer.exe
+S:\Anul 3\Semestrul 2\II\Laborator1&2\Tema_Form_1\Tema_Form_1\bin\Release\net8.0-windows\publish\GionPlayer.dll
+S:\Anul 3\Semestrul 2\II\Laborator1&2\Tema_Form_1\Tema_Form_1\bin\Release\net8.0-windows\publish\GionPlayer.deps.json
+S:\Anul 3\Semestrul 2\II\Laborator1&2\Tema_Form_1\Tema_Form_1\bin\Release\net8.0-windows\publish\GionPlayer.runtimeconfig.json
+S:\Anul 3\Semestrul 2\II\Laborator1&2\Tema_Form_1\Tema_Form_1\bin\Release\net8.0-windows\publish\GionPlayer.pdb
+S:\Anul 3\Semestrul 2\II\Laborator1&2\Tema_Form_1\Tema_Form_1\bin\Release\net8.0-windows\publish\Interop.WMPLib.dll
+S:\Anul 3\Semestrul 2\II\Laborator1&2\Tema_Form_1\Tema_Form_1\bin\Release\net8.0-windows\publish\AxInterop.WMPLib.dll
